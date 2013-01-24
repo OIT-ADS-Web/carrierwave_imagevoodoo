@@ -6,16 +6,11 @@ CarrierWave support for ImageVoodoo
 
 Add this line to your application's Gemfile:
 
-    gem 'image_voodoo'
-    gem 'carrierwave_imagevoodoo'
+    gem 'carrierwave_imagevoodoo', github: 'OIT-ADS-Web/carrierwave_imagevoodoo'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install image_voodoo carrierwave_imagevoodoo
 
 ## Usage
 
